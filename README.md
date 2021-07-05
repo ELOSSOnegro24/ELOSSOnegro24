@@ -546,4 +546,4 @@ message.channel.send(embed);
 
 });
 
-client.login('ODU0NTcyMzc1NDgyOTU3ODQ0.YMl4iw.xNBk51rGMsvtDLMeBWM3dJDv1o8')
+client.login('')
